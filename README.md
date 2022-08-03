@@ -10,6 +10,7 @@ Some examples output are provided below:
 
 <img src="https://github.com/trangqngo/Panko/blob/main/example-pic/Flower-Field.png" align="left" width="350" >
 
+<br>
 
 # Tutorial 
 
