@@ -1,0 +1,24 @@
+canvas 800 800
+background 006A4E
+
+skyBrush = stroke rectangle 200 20
+flowerBrush = stroke circle 10 30 
+red = DC143C
+orange = FFBA01
+white = FFFFFF
+lightBlue = ADD8E6
+
+sky = stroke rectangle 800 200 
+paint sky lightBlue 0 0 
+
+repeat 800 (
+x = randLoc 0 800
+y = randLoc 0 200
+gradient skyBrush white lightBlue x y
+)
+
+repeat 300 (
+x = randLoc 0 800
+y = randLoc 210 800
+gradient flowerBrush red orange x y
+)
