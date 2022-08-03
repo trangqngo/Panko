@@ -10,6 +10,8 @@ Some examples output are provided below:
 
 ![HelloPanko](https://github.com/trangqngo/Panko/blob/main/example-pic/Hello-Panko.png)
 
+<img src="https://github.com/trangqngo/Panko/blob/main/example-pic/Hello-Panko.png" align="left" width="48" ></a>
+
 ![FlowerField](https://github.com/trangqngo/Panko/blob/main/example-pic/Flower-Field.png)
 
 
