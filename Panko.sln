@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Panko", "lang\Panko.fsproj", "{02B92068-2147-430D-9947-DB7C19E2B87C}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "tests", "tests\tests.fsproj", "{E05BF6E1-9F1D-4F0A-A113-F4A0D973488E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02B92068-2147-430D-9947-DB7C19E2B87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B92068-2147-430D-9947-DB7C19E2B87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B92068-2147-430D-9947-DB7C19E2B87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B92068-2147-430D-9947-DB7C19E2B87C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E05BF6E1-9F1D-4F0A-A113-F4A0D973488E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E05BF6E1-9F1D-4F0A-A113-F4A0D973488E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E05BF6E1-9F1D-4F0A-A113-F4A0D973488E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E05BF6E1-9F1D-4F0A-A113-F4A0D973488E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
